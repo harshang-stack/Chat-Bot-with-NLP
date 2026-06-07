@@ -1,61 +1,76 @@
-# AI-Chatbot
+# Hi, I'm Harshang 👋
 
-[![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-4.2-green.svg)](https://www.djangoproject.com/)
-[![Keras](https://img.shields.io/badge/Keras-2.12-red.svg)](https://keras.io/)
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: RANA HARSHANG HIREN
+
+INTERN ID: CTIS9957
+
+DOMAIN: PYTHON PROGRAMMING
+
+BATCH DURATION: MAY 09th,2026 to JUNE 6th, 2026
+
+MENTOR NAME : NEELA SANTHOSH KUMAR
 
 
-Django-powered AI chatbot trained on a custom intents dataset, delivering precise and immediate responses with a sleek, responsive Bootstrap UI.
-
----
-
-## Features
-- 🧠 Deep learning–based intent recognition using **Keras** & **NLTK**
-- 💬 Instant and context-aware responses
-- 🎨 Clean, fully responsive frontend (Bootstrap & Font Awesome)
-- 🔒 Secure form handling with CSRF protection
-- ⚡ Easily customizable intents and responses
-
----
-
-## Tech Stack
-- **Backend:** Django, Keras, NLTK
-- **Frontend:** HTML5, CSS3, Bootstrap, Font Awesome
-- **Assets:** Trained model, intents JSON, pickled word lists, and classes
+## 🚀 About Me
+- 🎓 3rd Year BTech IT Student
+- 💻 Passionate about Full-Stack Development, AI, and Machine Learning
+- 🌱 Currently learning the MERN Stack
+- 🤖 Interested in AI Chatbots, Object Detection, and Computer Vision
+- 🏎️ F1 fan and gaming enthusiast
 
 ---
 
-## Setup Guide
+## 🛠️ Tech Stack
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/malavika-suresh/AI-chatbot.git
-   cd AI-chatbot
-   ```
+### Languages
+- Python
+- Java
+- JavaScript
+- C/C++
+- SQL
 
-2. **Install dependencies**  
-   ```bash
-   pip install -r requirements.txt
-   ```
+### Web Development
+- MongoDB
+- Express.js
+- React
+- Node.js
+- HTML5
+- CSS3
+- Bootstrap
 
-3. **Place files** in the correct path (update paths in `views.py` if necessary):  
-   - `model_new.h5`  
-   - `new_intent.json`  
-   - `words.pkl`  
-   - `classes.pkl`  
-
-4. **Run migrations** (if applicable)  
-   ```bash
-   python manage.py migrate
-   ```
-
-5. **Start the development server**  
-   ```bash
-   python manage.py runserver
-   ```
+### AI / ML
+- TensorFlow
+- Keras
+- NLTK
+- Scikit-learn
 
 ---
 
+## 📌 Featured Project
 
+### AI Chatbot
+A Django-powered AI chatbot trained on a custom intents dataset.
 
+**Features**
+- Intent recognition using Keras & NLTK
+- Responsive Bootstrap UI
+- Fast and accurate responses
+- Easy customization of intents and responses
 
+---
+
+## 📈 Current Goals
+- Complete advanced MERN development
+- Build production-ready full-stack applications
+- Improve DSA and problem-solving skills
+- Explore AI and Deep Learning projects
+
+---
+
+## 📫 Connect With Me
+- GitHub: Add your GitHub profile here
+- LinkedIn: Add your LinkedIn profile here
+
+⭐ Always learning and building.
